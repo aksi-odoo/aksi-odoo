@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻 Upgrade Engineer @ Odoo <br>💡 Exploring Gleam <img src="https://gleam.run/images/lucy/lucy.svg" alt="Gleam Lucy" width="30" height="30">
  & Golang <img src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" alt="Go Logo" width="30" height="30" >
-<br>📚 Databases Enthusiast  <br>🐍 Hardcore Pythonista<br>🔧 Crafting code, upgrading tech!
+<br>📚 Database Enthusiast  <br>🐍 Hardcore Pythonista<br>🔧 Crafting code, upgrading tech!
 
 
 ## 🌐 Socials:
