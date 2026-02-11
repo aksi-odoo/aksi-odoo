@@ -14,8 +14,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aksi-odoo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aksi-odoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aksi-odoo&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+### ✍️ Quote of The Year
+:fire: Strong engineers create C <br>
+:fire: C creates good times <br>
+:fire: Good times create Python <br>
+:fire: Python creates Al <br>
+:fire: Al creates vibe coding <br>
+:fire: Vibe coding creates weak engineers <br>
+:fire: Weak engineers create bad times <br>
+:fire: Bad times create strong engineers <br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
